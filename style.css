@@ -17,12 +17,14 @@ h1{
     font-size: 40px;
 }
 .orange-color{
-    color: orange;
+    color: rgb(255, 81, 0);
 }
 .intro
 {
     display: flex;
     padding: 40px;
+    background-image: url(images/shapes/shape-2.png);
+    background-repeat: no-repeat;
 }
 .intro p{
     padding: 40px;
@@ -53,7 +55,7 @@ h1{
 .link-button
 {
     text-decoration: none;
-    background-image: linear-gradient(#da4444,#f0bf8d ) ;
+    background-image: linear-gradient(#da4444,#ce9b68 ) ;
     padding: 10px 60px;
     /* margin-left: 5%; */
     border-radius:5px ;
@@ -63,6 +65,8 @@ h1{
 .my-mission
 {
     margin-left: 5%;
+    background-image: url(images/shapes/shape-8.png);
+    background-repeat: no-repeat;
 }
 
 .my-mission h2 {
@@ -124,6 +128,9 @@ h1{
 {
     display: flex ;
     padding:  40px;
+    background-image: url(images/shapes/shape-3.png);
+    background-repeat: no-repeat;
+    background-position: right;
     
 }
 .develop h2
@@ -144,6 +151,8 @@ h1{
 {
     display: flex;
     padding: 40px;
+    background-image: url(images/shapes/shape-3.png);
+    background-repeat: no-repeat;
 }
 .community h2
 {
