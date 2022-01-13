@@ -1,3 +1,9 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
 body{
     font-family: 'Josefin Sans', sans-serif;
     font-family: 'Roboto Condensed', sans-serif;
@@ -13,10 +19,22 @@ h1{
 .orange-color{
     color: orange;
 }
-section
+.intro
 {
     display: flex;
     padding: 40px;
+}
+.intro p{
+    padding: 40px;
+    font-size: 25px ;
+}
+.intro h1{
+    margin-left: 5%;
+    border-left: 4px solid;
+    border-image: linear-gradient(#da4444, #f0bf8d) 12;
+    line-height: 1.25;
+    border-image-outset: 10px;
+    border-image-repeat: space;
 }
 .half-width
 {
@@ -32,7 +50,8 @@ section
 {
     text-decoration: none;
     background-image: linear-gradient(pink, red) ;
-    padding: 10px 40px;
+    padding: 10px 60px;
+    margin-left: 5%;
     border-radius:5px ;
     font-weight: 600;
     color: white;
@@ -113,9 +132,19 @@ section
 {
     margin: 5%;
 }
-.app h2
+.community
+{
+    display: flex;
+    padding: 40px;
+}
+,.community h2
+{
+    font-size: 60px;
+}
+.app 
 {
     display: flex;
     text-align: center ;
+    padding-left: 40%;
     font-size: 45px;
 }
