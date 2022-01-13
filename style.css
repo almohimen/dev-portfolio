@@ -35,55 +35,35 @@ section
     font-weight: 600;
     color: white;
 }
-/* .illustration
+.my-mission
 {
-    float: left;
-    display: flex;
-    width: 20%;
-} */
-.column-item {
-    width: 80%;
-    margin: 0 auto;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-.column-item1 {
-    width: 35%;
-    background-color: #EDF5F6;
-    margin: 15px;
-    border-radius: 30px;
-    padding: 10px 20px;
-    text-align: left;
-
-}
-
-.column-item1 div img {
-    width: 160px;
-}
-
-.column-img {
     text-align: center;
 }
-
-.column1 {
-    line-height: 2;
-    font-size: 25px;
-    text-align: center;
+.my-mission h2{
+    font-size: 45px;
 }
-
-.column1 p {
+.my-mission p
+{
     text-align: justify;
     padding-bottom: 30px;
     padding-top: 15px;
     font-size: 14px;
     line-height: 1.80;
 }
-
-#column2 {
-    background-color: #FFEEEE;
+ .column-item {
+    width: 80%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
-
-#column3 {
-    background-color: #FFF4D6;
+.column-img {
+    text-align: center;
+     background-color: orange; 
+    margin: 5px;
+    
+}
+.item-body1
+{
+    background-color: ;
 }
