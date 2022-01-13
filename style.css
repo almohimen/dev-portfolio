@@ -121,11 +121,10 @@ h1{
 }
 
 .mission-item1 p {
-    text-align: justify;
+    text-align: center ;
     padding-bottom: 30px;
     padding-top: 15px;
-    font-size: 14px;
-    line-height: 1.80;
+    font-size: 16px;
 }
 
 #mission-item2 {
@@ -176,11 +175,10 @@ h1{
 .app 
 {
     display: flex;
-    text-align: center ;
-    padding-left: 40%;
-    font-size: 45px;
-    padding-bottom: 20%;
-    background-image: url(images/shapes/shape-5.png);
+    margin-top: 10%;
+    margin-bottom: 20%;
+    background-image: url(images/shapes/shape-2.png);
+    background-size: 200px;
     background-repeat: no-repeat;
 }
 footer{
@@ -194,4 +192,18 @@ footer{
 {
     text-align: center;
     font-size: 40px;
+}
+.title h2
+{
+    font-size: 45px;
+}
+.aapp h2
+{
+    font-size: 40px;
+
+}
+.aapp p
+{
+    font-size: 20px;
+
 }
