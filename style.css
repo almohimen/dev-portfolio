@@ -1,4 +1,5 @@
 body{
+    font-family: 'Josefin Sans', sans-serif;
     font-family: 'Roboto Condensed', sans-serif;
     margin: 10px;
     padding: 10px;
@@ -97,4 +98,24 @@ section
     display: flex ;
     padding:  40px;
     
+}
+.develop h2
+{
+    padding: 40px;
+    font-size: 45px;
+
+}
+.develop p{
+    padding: 40px;
+    font-size: 25px ;
+}
+.button
+{
+    margin: 5%;
+}
+.app h2
+{
+    display: flex;
+    text-align: center ;
+    font-size: 45px;
 }
