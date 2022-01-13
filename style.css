@@ -190,3 +190,8 @@ footer{
     background-color: #000000;
     color: rgb(255, 255, 255);
 }
+.title
+{
+    text-align: center;
+    font-size: 40px;
+}
